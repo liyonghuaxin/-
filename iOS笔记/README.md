@@ -1,5 +1,5 @@
 2019-05-09
-``` Objective C
+``` objc , obj-c
 - (UIViewController *)getActivityViewController:(NSString *)controllerName {
     
     UIViewController *topVC = [UIApplication sharedApplication].keyWindow.rootViewController;
