@@ -1,6 +1,5 @@
 2019-05-09
-
-~
+``` Objective C
 - (UIViewController *)getActivityViewController:(NSString *)controllerName {
     
     UIViewController *topVC = [UIApplication sharedApplication].keyWindow.rootViewController;
@@ -24,4 +23,4 @@
     return nil;
     
 }
-~
+```
