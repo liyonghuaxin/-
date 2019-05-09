@@ -1,4 +1,5 @@
 2019-05-09
+1. 根据类名，获取已存在的controller
 ``` objc , obj-c
 - (UIViewController *)getActivityViewController:(NSString *)controllerName {
     
